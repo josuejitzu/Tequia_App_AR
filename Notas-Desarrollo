@@ -1,0 +1,17 @@
+
+KeyFeautures:
+
+-Audio narracion
+-Fade de animacion, relamente es desaparecer y aparecer cosas
+-Arrastrar objetos y que activen animaciones
+-Activar animaciones y audio con eventos
+
+
+Links Ayuda:
+
+WEBXR
+https://mozilla.github.io/aframe-xr/
+
+https://www.npmjs.com/package/aframe-mouse-dragndrop-component
+https://www.npmjs.com/package/aframe-click-drag-component
+https://github.com/google-ar/WebAR-Article

@@ -1,0 +1,166 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "count": 5202,
+      "max": [
+        5201
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 5202,
+      "max": [
+        0.99833196401596069,
+        0.99913674592971802,
+        0.9990084171295166
+      ],
+      "min": [
+        -0.99893695116043091,
+        -0.9997563362121582,
+        -0.99975854158401489
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 5202,
+      "max": [
+        23.555011749267578,
+        190.200927734375,
+        563.2877197265625
+      ],
+      "min": [
+        -48.211135864257813,
+        -0.33950695395469666,
+        473.20318603515625
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 5202,
+      "max": [
+        0.99413400888442993,
+        1
+      ],
+      "min": [
+        0,
+        0.017844021320343018
+      ],
+      "type": "VEC2"
+    }
+  ],
+  "asset": {
+    "generator": "glTF-Maya-Exporter ver1.5.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 20808,
+      "byteOffset": 0,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 62424,
+      "byteOffset": 20808,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 62424,
+      "byteOffset": 83232,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 41616,
+      "byteOffset": 145656,
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 187272,
+      "uri": "hornero_06.bin"
+    }
+  ],
+  "materials": [
+    {
+      "alphaMode": "OPAQUE",
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "MaterialFBXASC046001",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.80000001192092896,
+          0.80000001192092896,
+          0.80000001192092896,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "HORNERO_Shape",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 0,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "hornero_06"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "group1"
+    },
+    {
+      "mesh": 0,
+      "name": "HORNERO_"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
